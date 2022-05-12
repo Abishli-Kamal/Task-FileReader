@@ -1,0 +1,40 @@
+img {
+  width: 200px;
+  height: 100px;
+  object-fit: contain;
+  margin-top: 20px;
+}
+
+.selectimg {
+  display: none;
+}
+.dragDrop {
+  cursor: pointer;
+}
+
+.dropzone {
+  width: 300px;
+  height: 70px;
+  border: 2px dashed gray;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.btnclick {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+  border: 3px dotted red;
+}
+.table {
+  display: none;
+  width: 500px;
+  height: 400px;
+}
+
+.d-block{
+    display: block;
+}
